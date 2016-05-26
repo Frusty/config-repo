@@ -1,5 +1,3 @@
-some:
-  frontend-app:
-    property: bar
-    other: bam
-    another: x
+frontend:
+  settings:
+    anonymous-greeting: Anonymous
