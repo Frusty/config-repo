@@ -1,5 +1,5 @@
 info:
   description: Demandware Spring Cloud Samples
 some:
-  property: foo
+  property: bar
   new: xyz123
